@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/ElishaFlacon/">
-        <img src="https://readme-typing-svg.herokuapp.com?font=MonoSpace&size=32&duration=2500&pause=3200&color=ff79c6&background=FF050500&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Elisey!;Frontend+Developer;Dedicated+to+become+a+Fullstack+Developer;Always+learning+new+stack;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=MonoSpace&size=36&duration=2500&pause=3200&color=ff79c6&background=FF050500&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Elisey!;Frontend+Developer;Dedicated+to+become+a+Fullstack+Developer;Always+learning+new+stack;" alt="Typing SVG" />
     </a>
 </p>
 
@@ -16,13 +16,12 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 
 
 <p align="center">
     <a href="https://elishaflacon.github.io/">
-        <img  src="https://user-images.githubusercontent.com/83610362/232098484-16345070-6824-46bf-8795-b504fe89b367.png"/>
+        <img  src="https://user-images.githubusercontent.com/83610362/232128131-0b9b31f8-b719-4c5f-9ca2-4e2e33c68be2.png"/>
     </a>
 </p>
 
