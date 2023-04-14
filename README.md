@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/ElishaFlacon/">
-        <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&duration=2500&pause=3000&color=2671FF&background=FF050500&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Elisey!;Frontend+Developer;Dedicated+to+become+a+Fullstack+Developer;Always+learning+new+stack;" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=32&duration=2500&pause=4000&color=2671FF&background=FF050500&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Elisey!;Frontend+Developer;Dedicated+to+become+a+Fullstack+Developer;Always+learning+new+stack;" alt="Typing SVG" />
     </a>
 </p>
 
