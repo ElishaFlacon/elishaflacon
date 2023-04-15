@@ -66,7 +66,7 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/elishaflacon" target="_blank">
+<a href="https://github.com/ElishaFlacon" target="_blank">
 <img src=https://img.shields.io/badge/github-%23191622.svg?&style=for-the-badge&logo=github&logoColor=ff79c6 alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/elishaflacon" target="_blank">
@@ -78,7 +78,7 @@
 <a href="https://stackoverflow.com/users/21644486" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23191622.svg?&style=for-the-badge&logo=stackoverflow&logoColor=ff79c6 alt=stackoverflow style="margin-bottom: 5px;" />
 </a> 
-<a href="https://www.codewars.com/users/elishaflacon" target="_blank">
+<a href="https://www.codewars.com/users/ElishaFlacon" target="_blank">
 <img src=https://img.shields.io/badge/codewars-%23191622.svg?&style=for-the-badge&logo=codewars&logoColor=ff79c6 alt=instagram style="margin-bottom: 5px;" />
 </a>
 </p>
