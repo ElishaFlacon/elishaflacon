@@ -20,7 +20,7 @@
 
 
 <p align="center">
-    <a href="https://elishaflacon.github.io/">
+    <a href="https://eelisey.ru/">
         <img  src="https://user-images.githubusercontent.com/83610362/232128131-0b9b31f8-b719-4c5f-9ca2-4e2e33c68be2.png"/>
     </a>
 </p>
