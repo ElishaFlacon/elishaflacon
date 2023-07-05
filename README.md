@@ -21,9 +21,10 @@
 
 <p align="center">
     <a href="https://eelisey.ru/">
-        <img  src="https://github.com/ElishaFlacon/elishaflacon/assets/83610362/55bd174d-270a-40d6-a449-cf46bfc50436"/>
+        <img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/83610362/251165138-23cf1c45-50b4-4889-a874-54df7e7c7171.png"/>
     </a>
 </p>
+
 
 
 <br/>
