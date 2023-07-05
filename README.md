@@ -21,7 +21,7 @@
 
 <p align="center">
     <a href="https://eelisey.ru/">
-        <img  src="https://user-images.githubusercontent.com/83610362/232128131-0b9b31f8-b719-4c5f-9ca2-4e2e33c68be2.png"/>
+        <img  src="https://github.com/ElishaFlacon/elishaflacon/assets/83610362/55bd174d-270a-40d6-a449-cf46bfc50436"/>
     </a>
 </p>
 
