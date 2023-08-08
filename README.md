@@ -108,17 +108,12 @@
 
 <p align="center">
     
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=elishaflacon&show_icons=true&theme=omni&hide_border=true" width="480" height="196" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elishaflacon&hide_border=true&layout=compact&theme=omni" width="480" height="196" />
-</p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=elishaflacon&show_icons=true&theme=omni&hide_border=true" width="480" height="196" /></p>
 <br/>
-    
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elishaflacon&hide_border=true&layout=compact&theme=omni" width="480" height="196" /></p>
+<br/>  
 <p align="center"><img src="https://www.codewars.com/users/ElishaFlacon/badges/large" align="center" /></p>
-
 <br/>
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=elishaflacon&&style=flat-square" align="center" /></p>
 
 </p>
