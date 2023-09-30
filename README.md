@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    < Hi there ~ 👋 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32px" alt=""> /> 
+    < Hi there ~ 👋 /> 
 </h1>
 
 
@@ -97,7 +97,7 @@
 <br/>
 
 <p align="center">
-<a href="https://eelisey.ru/portfolio-site/static/media/Sokolov_Elisey-Frontend_Developer.25fca63c.pdf" target="_blank">
+<a href="https://docdro.id/HVGDL4L/" target="_blank">
 <img src=https://img.shields.io/badge/download_my_resume-%23191622.svg?&style=for-the-badge&logoColor=ff79c6 alt=github style="margin-bottom: 5px;" />
 </a>
 </p>
