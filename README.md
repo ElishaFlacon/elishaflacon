@@ -102,13 +102,6 @@
 </a>
 </p>
 
-<br/>
-
-<p align="center">
-<a href="https://eelisey.ru/portfolio-site/sokolov_elisey_frontend_developer.pdf" target="_blank">
-<img src=https://img.shields.io/badge/download_my_resume-%23191622.svg?&style=for-the-badge&logoColor=ff79c6 alt=github style="margin-bottom: 5px;" />
-</a>
-</p>
 
 
 <br/>
