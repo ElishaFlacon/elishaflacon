@@ -4,7 +4,7 @@
 
 <p align="center" >
 <a href="https://github.com/ElishaFlacon/">
-<img src="https://readme-typing-svg.herokuapp.com?font=MonoSpace&size=32&duration=2500&pause=500&color=ff79c6&background=FF050500&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Elisey!;Golang+Developer;I+Love+Programming+❤️;" alt="Hi, I'm Elisey!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=MonoSpace&size=32&duration=2500&pause=1000&color=ff79c6&background=FF050500&center=true&vCenter=true&width=600&height=70&lines=Hi,+I'm+Elisey!;Golang+Developer;I+Love+Programming+❤️;" alt="Hi, I'm Elisey!" />
 </a>
 </p>
 
